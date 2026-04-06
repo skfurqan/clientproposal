@@ -1,0 +1,5 @@
+1) 50% deposit due to reserve project start date.
+2) Remaining balance due before final source files are transferred.
+3) One revision round per milestone is included.
+4) Additional revisions are billed at the standard hourly rate.
+5) Proposal pricing is valid for 30 days from issue date.
